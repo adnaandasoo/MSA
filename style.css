@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 
 html, body {
       cursor: url(cursor.png), auto !important;
@@ -487,7 +488,7 @@ textarea:focus {
       font-weight: lighter;
       color: #fff;
       padding-left: 20px;
-      font-size: 18px !important;
+      font-size: 25px !important;
 }
 
 #media ul {
